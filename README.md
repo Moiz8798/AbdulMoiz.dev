@@ -2,7 +2,7 @@
 
 Personal portfolio of **Abdul Moiz Khan** — Full-Stack & Mobile Engineer.
 
-🌐 **Live site:** https://Moiz8798.github.io/Moiz-Builds
+🌐 **Live site:** https://moiz8798.github.io/AbdulMoiz.dev/
 
 ## Built With
 - Pure HTML5, CSS3 & Vanilla JavaScript
