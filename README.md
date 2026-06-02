@@ -1,2 +1,20 @@
-# AbdulMoiz.dev
-Software Engineer | Full-Stack Developer | AI Enthusiast. Showcasing impactful projects in web development, machine learning, computer vision, and intelligent systems.
+# 🚀 moiz-builds
+
+Personal portfolio of **Abdul Moiz Khan** — Full-Stack & Mobile Engineer.
+
+🌐 **Live site:** https://Moiz8798.github.io/Moiz-Builds
+
+## Built With
+- Pure HTML5, CSS3 & Vanilla JavaScript
+- No frameworks — handcrafted from scratch
+
+## Features
+- Responsive design (mobile, tablet, desktop)
+- Scroll-reveal animations
+- Projects: Helpix (FYP), FaceNet-MLP, ResumeIQ, TaskFlow & more
+- Downloadable CV
+
+## Contact
+- 📧 Moizkhan9121000@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/moiz-khan90)
+- 🐙 [GitHub](https://github.com/Moiz8798)
